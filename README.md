@@ -24,3 +24,5 @@ If it differs, the file has been modified or tampered with.
 
 
 This tool is useful in cybersecurity, system administration, and software development to ensure file authenticity and detect unauthorized changes. It is lightweight, simple to use, and ideal for monitoring sensitive and important files.
+
+#OUTPUT
