@@ -25,6 +25,6 @@ If it differs, the file has been modified or tampered with.
 
 This tool is useful in cybersecurity, system administration, and software development to ensure file authenticity and detect unauthorized changes. It is lightweight, simple to use, and ideal for monitoring sensitive and important files.
 
-#OUTPUT
+* OUTPUT
 
-https://github.com/Sunitakashyap02/TASK-1-FILE-INTEGRITY-CHECKER/issues/1#issue-3225420524
+* https://github.com/Sunitakashyap02/TASK-1-FILE-INTEGRITY-CHECKER/issues/1#issue-3225420524
